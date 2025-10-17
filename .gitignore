@@ -1,0 +1,10 @@
+﻿.venv/
+__pycache__/
+*.pyc
+*.log
+
+data/
+outputs/
+
+# keep placeholder for outputs
+!outputs/README.md

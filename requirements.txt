@@ -1,0 +1,9 @@
+pandas
+streamlit>=1.37
+tornado>=6.3
+
+altair
+requests
+beautifulsoup4
+flask
+pyarrow
