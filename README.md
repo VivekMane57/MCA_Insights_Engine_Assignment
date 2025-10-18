@@ -28,48 +28,50 @@ This project helps analyze **company incorporation trends**, **state-level insig
 ---
 
 ## 🗂️ Folder Structure  
+## 📁 Folder Structure
 
+````markdown
 MCA_Insights_Engine/
-│
 ├── data/
-│ ├── states/
-│ │ ├── Delhi.csv
-│ │ ├── Gujarat.csv
-│ │ ├── Maharashtra.csv
-│ │ ├── Karnataka.csv
-│ │ ├── Tamil Nadu.csv
-│ ├── snapshot_2025-10-14.csv
-│ ├── snapshot_2025-10-15.csv
-│ ├── snapshot_2025-10-16.csv
+│   ├── states/
+│   │   ├── Delhi.csv
+│   │   ├── Gujarat.csv
+│   │   ├── Maharashtra.csv
+│   │   ├── Karnataka.csv
+│   │   └── Tamil Nadu.csv
+│   ├── snapshot_2025-10-14.csv
+│   ├── snapshot_2025-10-15.csv
+│   └── snapshot_2025-10-16.csv
 │
 ├── outputs/
-│ ├── change_log_d1_d2.csv
-│ ├── change_log_d2_d3.csv
-│ ├── daily_change_log_all.csv
-│ ├── enriched_mca.csv
-│ ├── enrichment_template.csv
-│ ├── daily_summary.txt
-│ ├── daily_summary.json
-│ ├── master_current.csv
-│ ├── report_2025-10-16.md
+│   ├── change_log_d1_d2.csv
+│   ├── change_log_d2_d3.csv
+│   ├── daily_change_log_all.csv
+│   ├── enriched_mca.csv
+│   ├── enrichment_template.csv
+│   ├── daily_summary.txt
+│   ├── daily_summary.json
+│   ├── master_current.csv
+│   └── report_2025-10-16.md
 │
 ├── scripts/
-│ ├── merge_data.py
-│ ├── detect_changes.py
-│ ├── make_snapshots.py
-│ ├── make_three_snapshots.py
-│ ├── run_three_day.py
-│ ├── enrich_data.py
-│ ├── ai_summary.py
-│ ├── app_streamlit.py
-│ ├── api_flask.py
-│ ├── report_builder.py
-│ ├── make_enrichment_template.py
-│ ├── run_all.py
+│   ├── merge_data.py
+│   ├── detect_changes.py
+│   ├── make_snapshots.py
+│   ├── make_three_snapshots.py
+│   ├── run_three_day.py
+│   ├── enrich_data.py
+│   ├── ai_summary.py
+│   ├── app_streamlit.py
+│   ├── api_flask.py
+│   ├── report_builder.py
+│   ├── make_enrichment_template.py
+│   └── run_all.py
 │
 ├── .streamlit/config.toml
 ├── requirements.txt
-├── README.md
+└── README.md
+
 
 ## ⚙️ Setup Instructions  
 
