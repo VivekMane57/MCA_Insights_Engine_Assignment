@@ -25,6 +25,19 @@ This project helps analyze **company incorporation trends**, **state-level insig
 | Enrichment | Public data via CSV/API template |
 | Environment | Python 3.13.7 + Virtualenv (.venv) |
 
+## 💡 Dashboard Features
+
+| Section               | Description                                          |
+| --------------------- | ---------------------------------------------------- |
+| **Overview**          | KPIs: Company count, States covered, Latest date     |
+| **Browse**            | Search/filter companies by name, CIN, or state       |
+| **Changes**           | Visualizes New Incorporations, Updates, and Removals |
+| **Enrichment**        | Shows enriched company records with API/GST links    |
+| **Chat (Rule-based)** | Ask simple queries like "status update Karnataka"    |
+| **Bookmarks**         | Save and revisit selected company profiles           |
+| **AI Summary**        | Auto-generated summary of daily activities           |
+
+
 ## 📸 Project Screenshots
 
 Below are the major pages and features of the **MCA Insights Engine** Streamlit app.
@@ -152,17 +165,7 @@ streamlit run scripts/app_streamlit.py
 
 ---
 
-💡 Dashboard Features
 
-| Section               | Description                                          |
-| --------------------- | ---------------------------------------------------- |
-| **Overview**          | KPIs: Company count, States covered, Latest date     |
-| **Browse**            | Search/filter companies by name, CIN, or state       |
-| **Changes**           | Visualizes New Incorporations, Updates, and Removals |
-| **Enrichment**        | Shows enriched company records with API/GST links    |
-| **Chat (Rule-based)** | Ask simple queries like "status update Karnataka"    |
-| **Bookmarks**         | Save and revisit selected company profiles           |
-| **AI Summary**        | Auto-generated summary of daily activities           |
 
 
 
