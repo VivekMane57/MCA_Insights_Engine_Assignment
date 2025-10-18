@@ -26,8 +26,65 @@ This project helps analyze **company incorporation trends**, **state-level insig
 | Environment | Python 3.13.7 + Virtualenv (.venv) |
 
 ## 📸 Project Screenshots
-### 🧭 Dashboard Preview — MCA Insights Engine
-![Dashboard Overview]<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/e56446d3-17e5-4a78-b487-f5f83cfef510" />
+
+Below are the major pages and features of the **MCA Insights Engine** Streamlit app.
+
+---
+
+### 🧭 Dashboard Overview — MCA Insights Engine  
+Shows KPIs such as total companies, states covered, last change date, daily change trends, and AI-generated daily summaries.  
+![Dashboard Overview]<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/292cde70-6e75-4925-887e-c5a217fe9f29" />
+
+
+---
+
+### 🔍 Browse / Search Companies  
+Search or filter companies by CIN, name, state, or status. Displays company details with pagination and sorting options.  
+![Browse Companies]<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7a4ca3ae-0d29-4a02-9919-729b7068b9df" />
+
+
+---
+
+### 🏢 Company Detail View  
+Displays complete details for a selected company including CIN, status, class, authorized capital, paid-up capital, and recent change history.  
+![Company Detail]<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/fb99b104-1c90-4bd4-874b-1f02ee45a652" />
+
+
+---
+
+### 📊 Visual Analytics — Change & Capital Charts  
+Interactive donut/bar charts showing type-wise and capital breakdown analysis of MCA data.  
+![Visual Analytics]<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d31e0c3d-d175-41e1-95b3-10b194abfc7d" />
+
+
+---
+
+### 📈 Change Timeline & Export Options  
+Visualizes daily changes in data. Includes export buttons for CSV/JSON and bookmarking options.  
+![Change Timeline]<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f471a9b5-ec66-4be8-b7f9-06b70519ab0b" />
+
+
+---
+
+### 🔄 Change Log Page  
+Lists all field updates (e.g., Authorized Capital, Status) with old/new values and timestamps for auditing.  
+![Change Log]<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/83635b5e-3498-4ff4-ba99-a34bca3e7389" />
+
+
+---
+
+### 🌐 Enrichment Dashboard  
+Shows enriched company records fetched from public APIs such as APISetu, GST Portal, and ZaubaCorp with source URLs.  
+![Enrichment Page]<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5f969c7e-a069-405f-b273-a4a565cb9229" />
+
+
+---
+
+### 💬 Rule-based Chat Interface  
+Allows users to query the MCA dataset conversationally (e.g., “New incorporations in Maharashtra”) with instant table responses.  
+![Chat Interface]<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2f746a17-2332-4b96-9ddd-aee6a082ab64" />
+
+
 
 
 
