@@ -26,8 +26,7 @@ This project helps analyze **company incorporation trends**, **state-level insig
 | Environment | Python 3.13.7 + Virtualenv (.venv) |
 
 ---
-
-## 🗂️ Folder Structure  
+ 
 ## 📁 Folder Structure
 
 ````markdown
@@ -98,3 +97,10 @@ streamlit run scripts/app_streamlit.py
 | **Chat (Rule-based)** | Ask simple queries like "status update Karnataka"    |
 | **Bookmarks**         | Save and revisit selected company profiles           |
 | **AI Summary**        | Auto-generated summary of daily activities           |
+
+
+### 🖼️ Dashboard Preview — MCA Insights Engine (Overview Page)
+This is the main Streamlit dashboard view showing overall metrics and AI-based daily insights.
+
+![MCA Insights Engine Dashboard](https://github.com/VivekMane57/MCA_Insights_Engine_Assignment/assets/your-image-id)
+
