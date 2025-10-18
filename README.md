@@ -135,7 +135,7 @@ MCA_Insights_Engine/
 ├── requirements.txt
 └── README.md
 
-
+---
 ## ⚙️ Setup Instructions  
 
 ### 1️⃣ Create Environment  
@@ -149,6 +149,8 @@ python scripts/run_three_day.py
 python scripts/enrich_data.py
 python scripts/ai_summary.py
 streamlit run scripts/app_streamlit.py
+
+---
 
 💡 Dashboard Features
 
