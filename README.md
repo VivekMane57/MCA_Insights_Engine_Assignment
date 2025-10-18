@@ -101,6 +101,6 @@ streamlit run scripts/app_streamlit.py
 
 ### 🖼️ Dashboard Preview — MCA Insights Engine (Overview Page)
 This is the main Streamlit dashboard view showing overall metrics and AI-based daily insights.
+<img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/ee0bfced-af2b-4a1d-86fe-9ed825afc6c2" />
 
-![MCA Insights Engine Dashboard](https://github.com/VivekMane57/MCA_Insights_Engine_Assignment/assets/your-image-id)
 
