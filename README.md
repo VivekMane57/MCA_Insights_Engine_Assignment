@@ -27,7 +27,8 @@ This project helps analyze **company incorporation trends**, **state-level insig
 
 ## 📸 Project Screenshots
 ### 🧭 Dashboard Preview — MCA Insights Engine
-![Dashboard Overview](<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2dad9423-9181-4af6-b758-88a8015efce1" />)
+![Dashboard Overview]<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/e56446d3-17e5-4a78-b487-f5f83cfef510" />
+
 
 
 
