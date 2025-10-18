@@ -33,8 +33,8 @@ MCA_Insights_Engine/
 │
 ├── data/
 │ ├── states/
-│ │ ├── Delhi.csv,
-│ │ ├── Gujarat.csv,
+│ │ ├── Delhi.csv|
+│ │ ├── Gujarat.csv|,
 │ │ ├── Maharashtra.csv
 │ │ ├── Karnataka.csv
 │ │ ├── Tamil Nadu.csv
