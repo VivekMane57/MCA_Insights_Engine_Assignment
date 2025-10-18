@@ -25,6 +25,12 @@ This project helps analyze **company incorporation trends**, **state-level insig
 | Enrichment | Public data via CSV/API template |
 | Environment | Python 3.13.7 + Virtualenv (.venv) |
 
+## 📸 Project Screenshots
+### 🧭 Dashboard Preview — MCA Insights Engine
+![Dashboard Overview](<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2dad9423-9181-4af6-b758-88a8015efce1" />)
+
+
+
 ---
  
 ## 📁 Folder Structure
@@ -99,11 +105,7 @@ streamlit run scripts/app_streamlit.py
 | **AI Summary**        | Auto-generated summary of daily activities           |
 
 
-### 🧭 Dashboard Preview — MCA Insights Engine
 
-This is the main Streamlit dashboard view showing overall metrics and AI-based daily insights.
-
-<img width="1919" height="1076" alt="MCA Insights Engine Dashboard" src="https://github.com/user-attachments/assets/ee0bfced-af2b-4a1d-86fe-9ed825afc6c6">
 
 
 
